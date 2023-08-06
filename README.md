@@ -1,4 +1,3 @@
-# snake
+# Snake
 A simple snake game written in python with pygame
-# Running
-``` python game.py ```
+enter ``` python game.py ``` to run
